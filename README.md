@@ -48,8 +48,12 @@
 12- to commit container with new modification
 ```
     docker commit <container id> <accoutn on docker hup /yourrepo on docker hup : tag>
+            ex:
+            sudo docker commit ff0b322f4a1b ahmed97hassan/big_data_tool:bigdata_stack
 ```
 13- to push container on docker hup 
 ```
     docker push <accoutn on docker hup /yourrepo on docker hup : tag>
+            ex:
+            sudo docker push ahmed97hassan/big_data_tool:bigdata_stack
 ```
