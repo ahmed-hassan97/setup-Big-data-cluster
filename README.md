@@ -49,3 +49,7 @@
 ```
     docker commit <container id> <accoutn on docker hup /yourrepo on docker hup : tag>
 ```
+13- to push container on docker hup 
+```
+    docker push <accoutn on docker hup /yourrepo on docker hup : tag>
+```
