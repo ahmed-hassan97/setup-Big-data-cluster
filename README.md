@@ -66,15 +66,15 @@
  # To build Data Stack Please read This Requirements                      
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### prerequisites before install data-stack
-*  you must have docker and docker-compose up 
+*  you must have docker and docker-compose
 *  use this link to install if you don't have <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-install-Docker-and-docker-compose-on-a"> link </a> 
 
 ```
-        ## RUN Attached shell script in this repo
-            . create_stack.sh
+## RUN Attached shell script in this repo
+   . create_stack.sh
             
         
-        ## open portainer you can see all kafka tools
-            http://localhost:9000/
+## open portainer you can see all kafka tools
+    <a href="http://localhost:9000/"> portainer link </a>
 
 ```
