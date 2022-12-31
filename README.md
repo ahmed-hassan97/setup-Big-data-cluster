@@ -37,3 +37,11 @@
 ```
     docker image inspect <image id>
 ```
+10- to remove all image in one cmd
+```
+    docker rmi -f $(docker image ls -aq)
+```
+11- to remove all container 
+```
+    docker rm -f $(docker ps -aq)
+```
