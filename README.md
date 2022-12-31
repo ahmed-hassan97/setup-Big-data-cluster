@@ -63,7 +63,7 @@
 ```
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------                        
- # To build Data Stack Please read This Requirements                      
+ ### To build Data Stack Please read This Requirements                      
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### prerequisites before install data-stack
 *  you must have docker and docker-compose
@@ -71,7 +71,7 @@
 
 
 ```
-## RUN Attached shell script in this repo
+* RUN Attached shell script in this repo
    . create_stack.sh
             
 ```
