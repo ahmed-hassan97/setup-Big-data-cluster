@@ -45,3 +45,7 @@
 ```
     docker rm -f $(docker ps -aq)
 ```
+12- to commit container with new modification
+```
+    docker commit <container id> <accoutn on docker hup /yourrepo on docker hup : tag>
+```
