@@ -57,3 +57,7 @@
             ex:
             sudo docker push ahmed97hassan/big_data_tool:v1
 ```
+14- copy file from local to container
+```
+    sudo docker cp <source path>  <container id :/shared-volume>
+```
