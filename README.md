@@ -33,3 +33,7 @@
 ```
     docker container run -it --name <your container name> -h <your host name> <docker hyp repo image> bash
 ```
+9- To know info about docker image 
+```
+    docker image inspect <image id>
+```
