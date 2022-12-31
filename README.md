@@ -55,5 +55,5 @@
 ```
     docker push <accoutn on docker hup /yourrepo on docker hup : tag>
             ex:
-            sudo docker push ahmed97hassan/big_data_tool:bigdata_stack
+            sudo docker push ahmed97hassan/big_data_tool:v1
 ```
