@@ -65,4 +65,15 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------                        
  # To build Data Stack Please read This Requirements                      
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+       #### prerequisites before install data-stack
+            1- you must have docker and docker-compose up 
+            2- use this link to install if you don't have 
+                <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-install-Docker-and-docker-compose-on-Ubuntu"> </a> 
 
+```
+        ## RUN Attached shell script in this repo
+            . create_stack.sh
+        
+        ## open portainer 
+
+```
