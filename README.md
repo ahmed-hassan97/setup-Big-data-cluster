@@ -61,7 +61,10 @@
 ```
     sudo docker cp <source path>  <container id :/shared-volume>
 ```
-
+15- if you want to map container to host 
+```
+    sudo docker container run -d --name web --network host <image>
+```
 -----------------------------------------------------------------------------------------------------------------------------------------------------                        
  ### To build Data Stack Please read This Requirements                      
 ------------------------------------------------------------------------------------------------------------------------------------------------------
