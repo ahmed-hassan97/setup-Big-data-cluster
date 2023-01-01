@@ -78,8 +78,11 @@
 
 ## open portainer you can see all kafka tools
   <a href="http://localhost:9000/"> portainer link </a>
+--------------------------------------------------------------------------------------------------------------------------------------------------
+   ### To install python library                      
+--------------------------------------------------------------------------------------------------------------------------------------------------
 ```
-* install python library
+
     1- create virtual environment
         python3 -m venv ./venv
     
