@@ -81,6 +81,13 @@
 
 ## open portainer you can see all kafka tools
   <a href="http://localhost:9000/"> portainer link </a>
+  
+## open nifi 
+    1- open nifi terminal 
+    2- go to bin/
+    3- . nifi.sh start 
+    
+  <a href="http://localhost:8080/nifi/"> nifi link </a>  
 --------------------------------------------------------------------------------------------------------------------------------------------------
    ### To install python library                      
 --------------------------------------------------------------------------------------------------------------------------------------------------
