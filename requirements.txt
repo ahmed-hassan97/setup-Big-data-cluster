@@ -1,0 +1,12 @@
+bcrypt==3.1.7
+Faker==0.7.4
+faust==1.10.4
+kafka-python==1.4.7
+lazr.restfulclient==0.14.2
+lazr.uri==1.0.3
+lazy-object-proxy==1.7.1
+lz4==4.0.2
+numpy==1.22.4
+python-decouple==3.6
+pytz==2022.1
+
